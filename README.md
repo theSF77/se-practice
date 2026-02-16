@@ -11,6 +11,6 @@ this is 4th one
 
 5th one
 
-logo problem is solved
+logo problem is solved.
 
 
